@@ -108,7 +108,7 @@ These insights drive strategic recommendations such as enhancing loyalty program
 
 ▶️ How to Run This Project
 1. Clone the Repository
-git clone https://github.com/yourusername/customer-purchasing-behavior-insights.git
+git clone https://github.com/Jagadeesh09-code/customer-purchasing-behavior-insights.git
 cd customer-purchasing-behavior-insights
 
 2. Run the Python Notebook
